@@ -4,8 +4,11 @@ This is purely an academic exercise.
                                                                                                                             
   Problem                                                                                                                   
      Given a list of numbers find the sum that is closest but less then or equal to a desired value.                        
-                                                                                                                            
-                                                                                                                            
+   
+   github                                                                                 
+   https://tinyurl.com/y4vz5bbl                                                           
+   https://github.com/rogerjdeangelis/utl-using-dynamic-tables-to-interface-with-dosubl   
+                                                                                                                           
    There are several coding techniques that are needed to get this to work                                                  
                                                                                                                             
    a. It is not possible using pure sas code to create a SAS dataset inside dosubl                                          
