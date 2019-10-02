@@ -11,7 +11,8 @@ Using dynamic tables to interface with dosubl with parent datastep
          
           github                                                                                 
           https://tinyurl.com/y4vz5bbl                                                           
-          https://github.com/rogerjdeangelis/utl-using-dynamic-tables-to-interface-with-dosubl                                                                                                                                                                                                                                          
+          https://github.com/rogerjdeangelis/utl-using-dynamic-tables-to-interface-with-dosubl   
+          
        There are several coding techniques that are needed to get this to work                                          
                                                                                                                         
        a. It is not possible using pure sas code to create a SAS dataset inside dosubl                                  
