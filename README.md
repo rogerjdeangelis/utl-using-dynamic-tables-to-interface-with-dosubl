@@ -7,9 +7,11 @@ Using dynamic tables to interface with dosubl with parent datastep
     There are better ways to do this.                                                                                   
                                                                                                                         
       Problem                                                                                                           
-         Given a list of numbers find the sum that is closest but less then or equal to a desired value.                
-                                                                                                                        
-                                                                                                                        
+         Given a list of numbers find the sum that is closest but less then or equal to a desired value.  
+         
+          github                                                                                 
+          https://tinyurl.com/y4vz5bbl                                                           
+          https://github.com/rogerjdeangelis/utl-using-dynamic-tables-to-interface-with-dosubl                                                                                                                                                                                                                                          
        There are several coding techniques that are needed to get this to work                                          
                                                                                                                         
        a. It is not possible using pure sas code to create a SAS dataset inside dosubl                                  
